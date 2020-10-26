@@ -114,6 +114,16 @@ for (const key in editSpec) {
     3.  Error handling.
 **/
 
+let bodyFunction = (request_) => {
+    try {
+
+    } catch (err) {
+        // Return an error instead of allowing an exception to be thrown.
+        return {error: err.stack}
+    }
+
+}
+
 /**
     4.  Dissecting a constructed filter.
 **/
