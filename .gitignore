@@ -1,0 +1,17 @@
+// THIS FILE IS CODE-GENERATED
+// Encapsule holistic v0.0.47 "alexandrite" olB4Ch2VRF6X8Y6D41TTlQ eacbb6aa2adf67ce3b20b2e9afdec1f4c37f1f4a
+//
+
+/BUILD/
+/DISTS/
+
+# Node.js
+node_modules/*
+
+# emacs
+*~
+\#*
+
+*.log
+
+.DS_Store

@@ -1,0 +1,12 @@
+{
+  "name": "filter-riffs",
+  "version": "1.0.0",
+  "description": "Demonstration of some 'riffs' using arccore filter.",
+  "main": "index.js",
+  "author": "Phillip Kahrl",
+  "license": "MIT",
+  "dependencies": {
+    "@encapsule/arccore": "^0.1.10",
+    "eslint": "^7.12.0"
+  }
+}
